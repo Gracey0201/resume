@@ -1,5 +1,5 @@
 # Grace Nwachukwu
-![My Photo](images/photo.jpg)
+![My Photo](https://github.com/Gracey0201/resume/blob/main/pix.jpg)
 
 ## Education
 - [University of Lagos](https://unilag.edu.ng/)
