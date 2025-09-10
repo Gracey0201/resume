@@ -2,7 +2,15 @@
 ![My Photo](images/photo.jpg)
 
 ## Education
-- [School 1](https://unilag.edu.ng/)
-- [School 2](https://www.clarku.edu/)
+- [University of Lagos](https://unilag.edu.ng/)
+- [Clark University](https://www.clarku.edu/)
 
+## Research Interest
+- Geospatial data analysis
+- Remote Sensing Applictions
+- Water Quality Monitoring
+- Climate and Land Use Change
+- Public Health & Environmental Hazards
+- Conservation GIS
+- Sustainable Resource Management
 
